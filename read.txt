@@ -1,2 +1,0 @@
-Hi Everyone,
-This is sample file created for Jenkins Start
